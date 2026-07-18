@@ -1,7 +1,7 @@
 # Hi, I'm Brajendra Pandey  
 ## First-year Computer Science and Engineering student at VIT Vellore.  
   
-Currently working on mastering Java.  
+Currently building foundational skills on Java.  
 
 ## Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brajendra-pandey-405a0b419/)
