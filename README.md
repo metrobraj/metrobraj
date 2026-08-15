@@ -1,7 +1,10 @@
 # Hi, I'm Brajendra Pandey  
 ## First-year Computer Science and Engineering student at VIT Vellore.  
   
-Currently building foundational skills on Java.  
+I usually learn things by the fly(effectively using the phrase "learning by doing"). I make cool projects and real-world solutions to real-world problems that I see around us.
+  
+  
+*DISCLAIMER: NONE of my work is AI-coded. While AI assistance may have been used, every line of code is handwritten, to promote a learning experience opposed to a "vibe-code" work environment.*
 
 ## Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brajendra-pandey-405a0b419/)
