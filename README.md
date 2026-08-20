@@ -1,7 +1,7 @@
 # Hi, I'm Brajendra Pandey  
 ## First-year Computer Science and Engineering student at VIT Vellore.  
   
-I usually learn things by the fly(effectively using the phrase "learning by doing"). I make cool projects and real-world solutions to real-world problems that I see around us.
+I usually learn things by the fly. I make cool projects and real-world solutions to real-world problems I see around us.
   
   
 
@@ -10,4 +10,4 @@ I usually learn things by the fly(effectively using the phrase "learning by doin
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toworkbraj@gmail.com)  
 
   
-*DISCLAIMER: NONE of my work is AI-coded. While AI assistance may have been used, every line of code is handwritten, to promote a learning experience opposed as to a "vibe-code" work environment.*
+*DISCLAIMER: NONE of my work is AI-coded. While AI assistance may have been used, every line of code has been written by me **yet as of now.***
